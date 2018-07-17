@@ -1,0 +1,19 @@
+{
+  "name": "webpack-basics",
+  "version": "1.0.0",
+  "description": "Quick notes to reference.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lovasco-j/webpack-basics.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lovasco-j/webpack-basics/issues"
+  },
+  "homepage": "https://github.com/lovasco-j/webpack-basics#readme"
+}
